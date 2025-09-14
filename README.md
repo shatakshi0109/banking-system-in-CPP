@@ -55,5 +55,15 @@ It simulates basic banking operations like customer management, account handling
    - `amount`
    - `timestamp`
    - `remarks`
+  
+---
+
+## 🎥 Demo
+
+Here’s how the Banking System looks in action:
+
+### 🖼️ Screenshot
+
+![App Screenshot](demo/demo.png)
 
 
